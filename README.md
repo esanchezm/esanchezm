@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Stuart](https://www.stuart.com) as SRE manager
 - 📫 How to reach me: @esanchezm on Twitter
 
-[![esanchezm's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanchezm)](https://github.com/anuraghazra/github-readme-stats)
+[![esanchezm's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanchezm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
