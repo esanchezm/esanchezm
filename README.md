@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-- 🔭 I’m currently working on [Voxnest](https://www.voxnest.com) as the lead in the infrastucture team
+- 🔭 I’m currently working on [Stuart](https://www.stuart.com) as SRE manager
 - 📫 How to reach me: @esanchezm on Twitter
+
+[![esanchezm's GitHub stats](https://github-readme-stats.vercel.app/api?username=esanchezm)](https://github.com/anuraghazra/github-readme-stats)
