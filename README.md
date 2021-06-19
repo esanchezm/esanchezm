@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Stuart](https://www.stuart.com) as SRE manager
+- 🧑‍💻 I'm a datahoarder. It's a digital disease!
 - 📫 How to reach me: @esanchezm on Twitter
 
 ![](https://komarev.com/ghpvc/?username=esanchezm)
