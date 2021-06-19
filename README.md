@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<!--
-**esanchezm/esanchezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about ...
--->
-
 - 🔭 I’m currently working on [Stuart](https://www.stuart.com) as SRE manager
 - 🧑‍💻 I'm a datahoarder. It's a digital disease!
 - 📫 How to reach me: @esanchezm on Twitter
@@ -18,7 +7,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=esanchezm)
 
-These stats are only related to my public contributions. Most of my job is done in provate repos, so this isn't accurate.
+These stats are only related to my public contributions. Most of my job is done in private repos, so this isn't accurate. I'm sorry :smile:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=esanchezm&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
