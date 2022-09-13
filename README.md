@@ -19,3 +19,4 @@ I love music but since I work at home I don't play as much as I'd like... Anyway
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=esanchezm)](https://www.last.fm/user/esanchezm)
 
+[![](https://northamerica-northeast1-homelab-ng.cloudfunctions.net/view-counter?label=@esanchezm)](#)
