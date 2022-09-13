@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Stuart](https://www.stuart.com) as SRE manager
+- 🔭 I’m currently working on [Moonpay](https://www.moonpay.com) as SRE
 - 🧑‍💻 I'm a datahoarder. It's a digital disease!
 - 📫 How to reach me: @esanchezm on Twitter
 - 🪖Working with Python, Terraform, AWS, Shell script...
