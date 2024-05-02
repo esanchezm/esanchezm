@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Moonpay](https://www.moonpay.com) as SRE
+- 🔭 I’m currently looking for job opporutinities as SRE or DevOps. Find me in [Linkedin](https://www.linkedin.com/in/estebansanchez/)!
 - 🧑‍💻 I'm a datahoarder. It's a digital disease!
-- 📫 How to reach me: @esanchezm on Twitter
-- 🪖Working with Python, Terraform, AWS, Shell script...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/estebansanchez/) and @esanchezm on Twitter
+- 🪖Working with Golang, Python, Terraform, AWS, GCP, k8s, ArgoCD, Grafana, Prometheus, Docker Shell script...
 
 ![](https://komarev.com/ghpvc/?username=esanchezm)
 
