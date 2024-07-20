@@ -15,8 +15,10 @@ These stats are only related to my public contributions. Most of my job is done 
 
 <img align="center" src="https://readme-jokes.vercel.app/api" />
 
-I love music but since I work at home I don't play as much as I'd like... Anyway, here's what I've been listening to
-
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=esanchezm)](https://www.last.fm/user/esanchezm)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esanchezm/esanchezm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esanchezm/esanchezm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/esanchezm/esanchezm/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![](https://northamerica-northeast1-homelab-ng.cloudfunctions.net/view-counter?label=@esanchezm)](#)
